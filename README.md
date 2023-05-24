@@ -1,2 +1,3 @@
-# php-upload
-Upload em PHP e SQL
+# Upload com PHP
+---
+Sistema simples de upload de arquivos com PHP e SQL
